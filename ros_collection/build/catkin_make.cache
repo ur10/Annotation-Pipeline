@@ -1,0 +1,2 @@
+ROS_spinnaker:gps_ros:ouster_example/ouster_ros
+-DCATKIN_DEVEL_PREFIX=/home/iddb/projects/ros_collection/devel -DCMAKE_INSTALL_PREFIX=/home/iddb/projects/ros_collection/install -G Unix Makefiles

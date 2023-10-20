@@ -1,0 +1,8 @@
+prefix=/home/iddb/projects/ros_collection/devel
+
+Name: ROS_spinnaker
+Description: Description of ROS_spinnaker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

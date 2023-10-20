@@ -1,0 +1,8 @@
+prefix=/home/iddb/projects/ros_collection/devel
+
+Name: gps_ros
+Description: Description of gps_ros
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
